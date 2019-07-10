@@ -1,0 +1,18 @@
+
+
+td{
+  
+  padding: 30px;
+}
+
+button
+{
+  border-radius: 12px;
+}
+
+table {
+    border-width: thin;
+    border: 2px;
+    border-style: none;
+    border-color: black;
+}
